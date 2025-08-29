@@ -1,14 +1,14 @@
-# Halo semua! 
+# Halo Everyone! 
  
-Perkenalkan nama saya **Rio Febriyan**.<br>
+My Name Is **Rio Febriyan**.<br>
  
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).<br>
+I'M **Data Enginer**.<br>
  
 Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
  
 Saya juga memiliki gelar Google Associate Data Scient.<br>
  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin] (https://www.linkedin.com/in/rio-febriyan-912ab8280/)ku ya.
  
 ### Github Statistic
 <p align="left">
